@@ -1,2 +1,1 @@
-// File minimo, Render lancerà n8n automaticamente
-console.log("n8n verrà avviato tramite il comando di start di Render");
+console.log("n8n verrà avviato tramite il comando start di Render");
